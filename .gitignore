@@ -1,4 +1,5 @@
    fonte/
    *.plain.html
+   protected/
    Thumbs.db
    .DS_Store
